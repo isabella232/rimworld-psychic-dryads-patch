@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Psychic Dryad Patch</name>
+    <author>Garethp</author>
+    <supportedVersions>
+        <li>1.3</li>
+    </supportedVersions>
+    <packageId>Garethp.PsychicDryadsPatch</packageId>
+    <description>
+        A patch to add Dryad support to Psychic Animals. If you find yourself unable to install the neuroformer or the psychic abilities don't appear, enable all the powers for Psychic Animals and try again.
+        
+        Source code can be found on [url=https://github.com/Garethp/rimworld-psychic-dryads-patch]Github[/url]
+    </description>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+        <li>
+            <packageId>bustedbunny.psychicanimals</packageId>
+            <displayName>Psychic Animals</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2604059573</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
